@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Andy Meixner",
+        "url": "http://www.rapid-mouse.com"
+    },
+    "maintainers": [
+        {
+            "name": "Andy Meixner",
+            "email": "andy.meixner@rapid-mouse.com",
+            "url": "http://www.rapid-mouse.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/andymeixner/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/andymeixner/jquery.linkIt",
+    "docs": "https://github.com/andymeixner/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
